@@ -10,4 +10,3 @@
 * example
 * example
 * example
-### [URL]
